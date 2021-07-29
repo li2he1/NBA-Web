@@ -1,4 +1,5 @@
-
+![](nba-demo.gif)
+## Description
 ● A dashboard using React, D3 and Ant Design backed by API from stats.nba.com to visualize individual player’s shot
 data, including a shot chart and profile view
 
@@ -7,6 +8,10 @@ data, including a shot chart and profile view
 ● An autocomplete player search bar providing a list of players (image and name) in the suggestion list to optimize the search experience
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Structure Diagram
+
+![](nba-structure.png)
 
 ## Available Scripts
 
